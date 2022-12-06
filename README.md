@@ -13,7 +13,7 @@ location with them.
 
 ## How to run this program
 First, you will have to sign up for the twitter developer account. 
-Once, your account is set up, please save your API key somewhere secure. You API keys shouldn't be share with any any as someone can access your twitter account through it. 
+Once, your account is set up, please save your API key somewhere secure. Your API keys shouldn't be share with any one as someone can access your twitter account through it. 
 For this program, i have created a seperate config.ini file where you can store your api key, the program is then refering to the keys in that file. Make sure your config.ini and your program file are in the same location. 
 
 Once you are authenticated, you can run the next block of jupyter program where i have stored all the funtions which are refered to in the next programs blocks. 
